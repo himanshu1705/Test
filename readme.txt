@@ -1,0 +1,2 @@
+SPLIT METHOD STRING
+toBinaryString();
